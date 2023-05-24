@@ -1,0 +1,133 @@
+﻿;;;;;;;;;;
+SETTORE DISCIPLINARE: BENI STORICI E ARTISTICI;;;;;;;;;;
+NORMATIVA OA - OPERE/OGGETTI D’ARTE - versione 3.00;;;;;;;;;;
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CD;;;;CODICI;;;;*;;
+;TSK;;;Tipo Scheda;OA;4;;*;C;1
+;LIR;;;Livello ricerca;C;5;;*;C;1
+;NCT;;;CODICE UNIVOCO;;;;*;;
+;;NCTR;;Codice regione;08;2;;*;C;1
+;;NCTN;;Numero catalogo generale;;8;;*;"numero
+assegnato
+da ICCD";1
+;ESC;;;Ente schedatore;;25;;*;codice assegnato da ICCD;1
+;ECP;;;Ente competente;;25;;*;codice assegnato da ICCD;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+RV;;;;RELAZIONI;;;;;;
+;RVE;;;STRUTTURA COMPLESSA;;;;;;
+;;RVEL;;Livello;1.2;25;;(*);;1
+;;RVER;;Codice bene radice;;25;;;;1
+;;RVES;;Codice bene componente;;25;Si;;;1
+;RSE;;;RELAZIONI DIRETTE;;;Si;;;
+;;RSER;;Tipo relazione;Localizzazione;70;;(*);C;1
+;;RSET;;Tipo scheda;A;10;;(*);C;1
+;;RSEC;;Codice bene;800241629;25;;(*);;3
+;ROZ;;;Altre relazioni;;25;Si;;;3
+;;;;;;;;;;
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+OG;;;;OGGETTO;;;;*;;
+;OGT;;;OGGETTO;;;;*;;
+;;OGTD;;Definizione;dipinto;70;;*;A;1
+;;OGTT;;Tipologia;parietale;70;;;A;1
+;;OGTV;;Identificazione;elemento d'insieme;25;;;C;1
+;;OGTN;;Denominazione/dedicazione;;100;;;;1
+;;OGTP;;Posizione;parete d'ingresso;50;;;;1
+;;SGTI;;Identificazione;Profeti ed erme;250;Si;(*);;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+LC;;;;LOCALIZZAZIONE GEOGRAFICO-AMMINISTRATIVA;;;;*;;
+;PVC;;;LOCALIZZAZIONE GEOGRAFICO-AMMINISTRATIVA ATTUALE;;;;*;;
+;;PVCS;;Stato;Italia;50;;;C;1
+;;PVCR;;Regione;Emilia-Romagna;25;;*;C;1
+;;PVCP;;Provincia;BO;3;;*;C;1
+;;PVCC;;Comune;Bologna;50;;*;C;1
+;LDC;;;COLLOCAZIONE SPECIFICA;;;;*;;
+;;LDCT;;Tipologia;palazzo;50;;;A;3
+;;LDCQ;;Qualificazione;borghese;50;;;A;3
+;;LDCN;;Denominazione;Palazzo Poggi;80;;;;3
+;;LDCU;;Denominazione spazio viabilistico;Via Zamboni, 33;250;;*;;2
+;;LDCM;;Denominazione raccolta;Museo di Palazzo Poggi;70;;;;2
+;;LDCS;;Specifiche;Sala di David;250;;;;2
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DT;;;;CRONOLOGIA;;;Si;*;;
+;DTZ;;;CRONOLOGIA GENERICA;;;;*;;
+;;DTZG;;Secolo;XVI;50;;*;;1
+;;DTZS;;Frazione di secolo;metà;25;;;C;1
+;DTS;;;CRONOLOGIA SPECIFICA;;;;*;;
+;;DTSI;;Da;1551;15;;*;;1
+;;DTSV;;Validità;post;25;;;C;1
+;;DTSF;;A;1555;15;;*;;1
+;;DTSL;;Validità;ca;25;;;C;1
+;DTM;;;Motivazione cronologia;bibliografia;50;Si;*;C;1
+;ADT;;;Altre datazioni;;250;Si;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+AU;;;;DEFINIZIONE CULTURALE;;;;*;;
+;AUT;;;AUTORE;;;Si;* 1;;
+;;AUTS;;Riferimento all'autore;;50;;;C;1
+;;AUTR;;Riferimento all'intervento;decorazione;50;;;A;1
+;;AUTM;;Motivazione dell'attribuzione;bibliografia;50;Si;(*);C;1
+;;AUTN;;Nome scelto;Fontana Prospero;100;;(*);;1
+;;AUTA;;Dati anagrafici;1512-1597;70;;(*);;1
+;AUT;;;AUTORE;;;Si;* 1;;
+;;AUTS;;Riferimento all'autore;;50;;;C;1
+;;AUTR;;Riferimento all'intervento;decorazione;50;;;A;1
+;;AUTM;;Motivazione dell'attribuzione;bibliografia;50;Si;(*);C;1
+;;AUTN;;Nome scelto;Samacchini Orazio;100;;(*);;1
+;;AUTA;;Dati anagrafici;1532-1577;70;;(*);;1
+;CMM;;;COMMITTENZA;;;Si;;;
+;;CMMN;;Nome;Poggi Giovanni;70;Si;;;1
+;;CMMD;;Data;1551-1556;50;;;;1
+;;CMMC;;Circostanza;;100;;;;1
+;;CMMF;;Fonte;bibliografia;50;;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+MT;;;;DATI TECNICI;;;;*;;
+;MTC;;;Materia e tecnica;intonaco/pittura a fresco;150;Si;*;A;1
+;MIS;;;MISURE;;;Si;*;;
+;;MISU;;Unità;UNR;5;;*;C;1
+;;MISR;;Mancanza;MNR;3;;* 2;C;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CO;;;;CONSERVAZIONE;;;;*;;
+;STC;;;STATO DI CONSERVAZIONE;;;;*;;
+;;STCC;;Stato di conservazione;buono;50;;*;C;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DA;;;;DATI ANALITICI;;;;*;;
+;DES;;;DESCRIZIONE;;;;*;;
+;;DESO;;Indicazioni sull'oggetto;Due erme incorniciano la figura monocroma bronzea di un profeta, inserito in una finta nicchia architettonica. Le erme sono, infatti, rappresentate come parte della finta architettura del fregio pittorico. Le figure dei profeti e delle erme sono poste a scandire le scene narrative del fregio, dividendole l'una dall'altra tramite un apparato architettonico illusionistico. Nel fregio dell'intera stanza sono presenti dieci figure di profeti incorniciati dalle erme. ;1300;;*;;1
+;;DESI;;Codifica Iconclass;48A9856(+4) : 41A644 : 11I19;250;Si;*;;1
+;;DESS;;Indicazioni sul soggetto;Personaggi: profeti. Elementi decorativi: erme;2000;Si;*;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+TU;;;;CONDIZIONE GIURIDICA E VINCOLI;;;;*;;
+;CDG;;;CONDIZIONE GIURIDICA;;;;*;;
+;;CDGG;;Indicazione generica;enti pubblici non territoriali;50;;*;C;1
+;;CDGS;;Indicazione specifica;Università di Bologna;250;Si;*;;2
+;;CDGI;;Indirizzo;Via Zamboni, 33;250;Si;;;2
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DO;;;;FONTI E DOCUMENTI DI RIFERIMENTO;;;;*;;
+;BIB;;;BIBLIOGRAFIA;;;Si;;;
+;;BIBX;;Genere;bibliografia specifica;25;;(*);C;1
+;BIL;;;Citazione completa;Fortunati V., Musumeci V. (a cura di), L'immaginario di un ecclesiastico. I dipinti murali di Palazzo Poggi, Compositori, II Edizione, 2001, pp. 217 - 225;500;Si;;;1
+;BIB;;;BIBLIOGRAFIA;;;Si;;;
+;;BIBX;;Genere;bibliografia specifica;25;;(*);C;1
+;BIL;;;Citazione completa;A.W.A. Boschloo, Il fregio dipinto a Bologna da Nicolò dell’Abate ai Carracci (1550-1580), Nuova Alfa Editoriale, 1984;500;Si;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+AD;;;;ACCESSO AI DATI;;;;*;;
+;ADS;;;SPECIFICHE DI ACCESSO AI DATI;;;;*;;
+;;ADSP;;Profilo di accesso;1;1;;*;C;1
+;;ADSM;;Motivazione;1;70;;*;C;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CM;;;;COMPILAZIONE;;;;*;;
+;CMP;;;COMPILAZIONE;;;;*;;
+;;CMPD;;Data;2023;4;;*;;1
+;;CMPN;;Nome;Bazzoni S.;70;Si;*;;1
