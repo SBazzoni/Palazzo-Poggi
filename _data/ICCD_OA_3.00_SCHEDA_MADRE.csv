@@ -1,0 +1,146 @@
+﻿;;;;;;;;;;
+SETTORE DISCIPLINARE: BENI STORICI E ARTISTICI;;;;;;;;;;
+NORMATIVA OA - OPERE/OGGETTI D’ARTE - versione 3.00;;;;;;;;;;
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CD;;;;CODICI;;;;*;;
+;TSK;;;Tipo Scheda;OA;4;;*;C;1
+;LIR;;;Livello ricerca;C;5;;*;C;1
+;NCT;;;CODICE UNIVOCO;;;;*;;
+;;NCTR;;Codice regione;08;2;;*;C;1
+;;NCTN;;Numero catalogo generale;ASSEGNATO DALL'ICCD;8;;*;"numero
+assegnato
+da ICCD";1
+;ESC;;;Ente schedatore;ASSEGNATO DALL'ICCD;25;;*;codice assegnato da ICCD;1
+;ECP;;;Ente competente;ASSEGNATO DALL'ICCD;25;;*;codice assegnato da ICCD;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+RV;;;;RELAZIONI;;;;;;
+;RVE;;;STRUTTURA COMPLESSA;;;;;;
+;;RVEL;;Livello;0;25;;(*);;1
+;RSE;;;RELAZIONI DIRETTE;;;Si;;;
+;;RSER;;Tipo relazione;Luogo di collocazione/localizzazione;70;;(*);C;1
+;;RSET;;Tipo scheda;A;10;;(*);C;1
+;;RSEC;;Codice bene;800241629;25;;(*);;3
+;;;;;;;;;;
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+OG;;;;OGGETTO;;;;*;;
+;OGT;;;OGGETTO;;;;*;;
+;;OGTD;;Definizione;sala;70;;*;A;1
+;;OGTV;;Identificazione;complesso decorativo;25;;;C;1
+;;OGTN;;Denominazione/dedicazione;Sala di Davide;100;;;;1
+;;OGTP;;Posizione;Piano nobile, ala sinistra;50;;;;1
+;SGT;;;SOGGETTO;;;;;;
+;;SGTI;;Identificazione;motivi decorativi a festoni, ignudi reggistendardo, finti arazzi, scorci prospettici, putti;250;Si;(*);;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+LC;;;;LOCALIZZAZIONE GEOGRAFICO-AMMINISTRATIVA;;;;*;;
+;PVC;;;LOCALIZZAZIONE GEOGRAFICO-AMMINISTRATIVA ATTUALE;;;;*;;
+;;PVCS;;Stato;Italia;50;;;C;1
+;;PVCR;;Regione;Emilia-Romagna;25;;*;C;1
+;;PVCP;;Provincia;BO;3;;*;C;1
+;;PVCC;;Comune;Bologna;50;;*;C;1
+;LDC;;;COLLOCAZIONE SPECIFICA;;;;*;;
+;;LDCT;;Tipologia;palazzo;50;;;A;3
+;;LDCQ;;Qualificazione;borghese;50;;;A;3
+;;LDCN;;Denominazione;Palazzo Poggi;80;;;;3
+;;LDCU;;Denominazione spazio viabilistico;Via Zamboni, 33;250;;*;;2
+;;LDCM;;Denominazione raccolta;Museo di Palazzo Poggi;70;;;;2
+;;LDCS;;Specifiche;piano nobile/ala sinistra/interno;250;;;;2
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DT;;;;CRONOLOGIA;;;Si;*;;
+;DTZ;;;CRONOLOGIA GENERICA;;;;*;;
+;;DTZG;;Secolo;XVI;50;;*;;1
+;;DTZS;;Frazione di secolo;metà;25;;;C;1
+;DTS;;;CRONOLOGIA SPECIFICA;;;;*;;
+;;DTSI;;Da;1551;15;;*;;1
+;;DTSV;;Validità;post;25;;;C;1
+;;DTSF;;A;1555;15;;*;;1
+;;DTSL;;Validità;ca;25;;;C;1
+;DTM;;;Motivazione cronologia;bibliografia;50;Si;*;C;1
+;DTM;;;Motivazione cronologia;stemma;50;Si;*;C;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+AU;;;;DEFINIZIONE CULTURALE;;;;*;;
+;AUT;;;AUTORE;;;Si;* 1;;
+;;AUTR;;Riferimento all'intervento;pittura, decorazione;50;;;A;1
+;;AUTM;;Motivazione dell'attribuzione;bibliografia ;50;Si;(*);C;1
+;;AUTN;;Nome scelto;Fontana Prospero;100;;(*);;1
+;;AUTA;;Dati anagrafici;1512-1597;70;;(*);;1
+;AUT;;;AUTORE;;;Si;* 1;;
+;;AUTR;;Riferimento all'intervento;pittura, decorazione;50;;;A;1
+;;AUTM;;Motivazione dell'attribuzione;bibliografia ;50;Si;(*);C;1
+;;AUTN;;Nome scelto;Samacchini Orazio;100;;(*);;1
+;;AUTA;;Dati anagrafici;1532-1577;70;;(*);;1
+;CMM;;;COMMITTENZA;;;Si;;;
+;;CMMN;;Nome;Poggi Giovanni;70;Si;;;1
+;;CMMD;;Data;1551-1556;50;;;;1
+;;CMMF;;Fonte;bibliografia ;50;;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+MT;;;;DATI TECNICI;;;;*;;
+;MTC;;;Materia e tecnica;pittura / legno;150;Si;*;A;1
+;MIS;;;MISURE;;;Si;*;;
+;;MISU;;Unità;UNR;5;;*;C;1
+;;MISR;;Mancanza;MNR;3;;* 2;C;1
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CO;;;;CONSERVAZIONE;;;;*;;
+;STC;;;STATO DI CONSERVAZIONE;;;;*;;
+;;STCC;;Stato di conservazione;buono;50;;*;C;1
+;;;;;;;;;;
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DA;;;;DATI ANALITICI;;;;*;;
+;DES;;;DESCRIZIONE;;;;*;;
+;;DESO;;Indicazioni sull'oggetto;La sala è posta nell'ala sinistra del piano nobile del Palazzo, consiste di soffitto ligneo dipinto e pareti affrescate. Il soffitto ligneo a cassettoni è decorato con quattro momenti della vita di Samuele. Il soffitto si presenta ripartito, al centro di ogni suddivisione si trova una scena biblica, posta in un ovale retto da due ignudi e che sormonta lo stemma di Giovanni Poggi sorretto da due putti. Ogni scena è incorniciata dalla struttura lignea del soffitto che reca decorazioni a grottesca, fitomorfe e antropomorfe. Le scene bibliche sono rappresentate all'interno di uno scorcio prospettico illusionistico. Gli episodi biblici di Samuele continuano nel fregio per connettersi alle storie di David.;1300;;*;;1
+;;DESI;;Codifica Iconclass;41A44 : 41E2 : 71H1121 : 71H113 : 48A9877(+2) : 31A14 : 48A9872 : 49D7(+9) : 92D1916 : 46A122(...)2 : 48A982 : 48A9831 : 48A9875;250;Si;*;;1
+;;DESS;;Indicazioni sul soggetto;Personaggi biblici:Samuele. Decorazioni: grottesche, cartouches, ignudi, putti, festoni.  ;2000;Si;*;;1
+;STM;;;STEMMI, EMBLEMI, MARCHI;;;Si;;;
+;;STMC;;Classe di appartenenza;stemma;50;;(*);A;1
+;;STMQ;;Qualificazione;committente, cardinalizio;50;;;A;1
+;;STMI;;Identificazione;Poggi;100;;;;1
+;;STMU;;Quantità;4;10;;;;1
+;;STMP;;Posizione;soffitto;100;;(*);;1
+;;STMD;;Descrizione;sei monti, aquila, cappello cardinalizio;500;;(*);;1
+;NSC;;;Notizie storico-critiche;"Gli affreschi venivano attribuiti, nelle guide del Novecento, a Nicolò dell'Abate o più genericamente agli allievi di Nicolò dell'Abate e di Pellegrino Tibaldi. Nel 1985, dopo i lavori di restauro, Armanda Pellicciari propone l'attribuzione dei dipinti del soffitto e del fregio a Prospero Fontana e alla sua bottega sulla base di puntuali riferimenti ai cicli decorativi romani di Castel Sant'Angelo, Villa Giulia e Palazzo Firenze. Nel 1986 Jurgen Winkelmann avanza l'ipotesi di una collaborazione tra il 1551 e il 1555 di Orazio Samacchini sotto la guida di Prospero Fontana. Il passaggio dalle signorie cittadine del Quattrocento al Cinquecento di Giulio II è testimoniato, dal punto di vista decorativo, da un cambio di interpretazione del decoro; Si passa dal concetto di ‘decoro’ inteso come lavorazione della pietra in facciata, al nuovo concetto di ‘decoro’ inteso come combinazione tra architettura e pittura.";5000;;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+TU;;;;CONDIZIONE GIURIDICA E VINCOLI;;;;*;;
+;CDG;;;CONDIZIONE GIURIDICA;;;;*;;
+;;CDGG;;Indicazione generica;enti pubblici non territoriali;50;;*;C;1
+;;CDGS;;Indicazione specifica;Università di Bologna;250;Si;*;;2
+;;CDGI;;Indirizzo;Via Zamboni, 33;250;Si;;;2
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+DO;;;;FONTI E DOCUMENTI DI RIFERIMENTO;;;;*;;
+;FTA;;;DOCUMENTAZIONE FOTOGRAFICA;;;Si;*;;
+;;FTAX;;Genere;documentazione esistente;50;;*;C;1
+;;FTAP;;Tipo;fotografia digitale;50;;*;A;1
+;;FTAA;;Autore;Sergio Orselli;50;;;;1
+;;FTAD;;Data;2000;25;;;;1
+;;FTAC;;Collocazione;Fondo Orselli;50;;;;2
+;;FTAN;;Codice identificativo;;25;;*;;2
+;;FTAF;;Formato;.jpeg;25;;;;1
+;BIB;;;BIBLIOGRAFIA;;;Si;;;
+;;BIBX;;Genere;bibliografia specifica;25;;(*);C;1
+;BIL;;;Citazione completa;A.W.A. Boschloo, Il fregio dipinto a Bologna da Nicolò dell’Abate ai Carracci (1550-1580), Nuova Alfa Editoriale, 1984;500;Si;;;1
+;BIB;;;BIBLIOGRAFIA;;;Si;;;
+;;BIBX;;Genere;bibliografia specifica;25;;(*);C;1
+;BIL;;;Citazione completa;Fortunati V., Musumeci V.(a cura di), L'immaginario di un ecclesiastico. I dipinti murali di Palazzo Poggi, Bologna, Compositori, II edizione, 2001, pp.217-225;500;Si;;;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+AD;;;;ACCESSO AI DATI;;;;*;;
+;ADS;;;SPECIFICHE DI ACCESSO AI DATI;;;;*;;
+;;ADSP;;Profilo di accesso;1;1;;*;C;1
+;;ADSM;;Motivazione;1;70;;*;C;1
+;;;;;;;;;;
+Acronimo;;;;Definizione;;LUN.;RIP.;OBB.;VOC.;VIS.
+CM;;;;COMPILAZIONE;;;;*;;
+;CMP;;;COMPILAZIONE;;;;*;;
+;;CMPD;;Data;2023;4;;*;;1
+;;CMPN;;Nome;Bazzoni S.;70;Si;*;;1
+;RSR;;;Referente scientifico;;70;Si;;;1
+;FUR;;;Funzionario responsabile;;70;Si;*;;1
+;;;;;;;;;;
